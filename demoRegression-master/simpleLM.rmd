@@ -79,4 +79,5 @@ abline(WEIGHTmodel)
 summary.lm(WEIGHTmodel)
 ```
 
-
+## Conclusion
+Among all the models that we tested, the one that had the largest r-square, therefore the best, is HEADLENGTH, with an r-square of 0.8434
